@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-shader",
+  "name": "@qingf/rollup-plugin-shader",
   "version": "1.0.1",
   "description": "",
   "main": "dist/rollup-plugin-shader.cjs.js",
