@@ -1,0 +1,27 @@
+{
+  "name": "rollup-plugin-shader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/rollup-plugin-shader.cjs.js",
+  "module": "dist/rollup-plugin-shader.es.js",
+  "scripts": {
+    "start": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cecil0o0/rollup-plugin-shader.git"
+  },
+  "author": "qingf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cecil0o0/rollup-plugin-shader/issues"
+  },
+  "homepage": "https://github.com/Cecil0o0/rollup-plugin-shader#readme",
+  "devDependencies": {
+    "rollup": "^1.10.1",
+    "yargs": "^13.2.2"
+  },
+  "files": [
+    "dist"
+  ]
+}
